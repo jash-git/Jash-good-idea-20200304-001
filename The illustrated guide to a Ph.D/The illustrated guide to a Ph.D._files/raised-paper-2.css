@@ -1,0 +1,209 @@
+/* Links */
+
+a {
+ text-decoration: none ;
+}
+
+a:hover {
+ text-decoration: underline ;
+}
+
+
+/* Body */
+
+body {
+  background-color: #dddddd ;
+  padding: 0px; 
+  margin: 0px ;
+  font-family: Georgia ;
+  color: #333333 ;
+  overflow: none ;
+}
+
+div.module {
+  width: 560px ;
+  background: white ;
+  margin-left: auto ;
+  margin-right: auto ;
+  margin-bottom: 20px ;
+  padding: 20px ;
+  padding-left: 40px ;
+  padding-right: 40px ;
+  border-radius: 9px ;
+  -moz-border-radius: 9px ;
+  -o-box-shadow: 0 5px 5px #333333 ;
+  -webkit-box-shadow: 0 5px 5px #333333 ;
+  -moz-box-shadow: 0 5px 5px #333333 ;
+  box-shadow: 0 5px 5px #333333 ;
+}
+
+div.navlinks {
+  text-align: left ;
+  margin: 10px ;
+}
+
+
+/* Lists */
+
+li {
+  margin-bottom: 0.5em; 
+}
+
+
+/* Articles */
+
+#body {
+ width: 640px;
+ margin-left: auto ;
+ margin-right: auto ;
+ margin-top: 20px ;
+ margin-bottom: 25px ;
+ padding: 0px ;
+}
+
+#content {
+ margin: 0px ;
+ padding-top: 50px ; 
+ padding-left: 50px ;
+ padding-right: 50px ;    
+ padding-bottom: 50px ;        
+}
+
+#footer {
+ margin: 0px ;
+ padding: 20px ;
+}
+
+#footer-links {
+ text-align: center ;
+}
+
+
+#article-content, #abstract-content {
+ margin: 0px ;    
+ padding-top: 10px ;
+ padding-left: 10px ;
+ padding-right: 10px ;    
+ padding-bottom: 10px ;            
+}
+
+.fat-content {
+ margin: 0px ;
+ padding: 0px ;
+}
+
+.fat-container {
+  margin: 0px ;
+  padding: 0px ;
+}
+
+
+.article {
+ padding: 10px ;
+ padding-top: 20px ;
+}
+
+
+h2 {
+  margin-top: 35px ;
+  margin-bottom: 0px ;
+}
+
+
+/* Header. */
+
+#main-header-container {
+ margin-bottom: 10px ;
+}
+
+#header-options {
+ width: 540px ;
+ height: 1.5em ;
+/* padding-left: 50px ; */
+/* padding-right: 50px ; */
+/* padding-top: 20px ; */
+/* padding-bottom: 20px ; */
+}
+
+#header-links {
+ width: 300px ;
+ height: 1.4em ;
+ text-align: left ;
+ float: left ;
+}
+
+#header-search {
+ text-align: right ;
+ width: 230px ;
+ height: 1.4em ;
+ float: right ;
+}
+
+
+.article-header {
+ height: 1.5em ;
+ width: 540px ;
+ margin-bottom: 20px;
+}
+
+.self-link {
+ float: left ;
+ height: 1.4em ;
+ width: 250px; 
+ text-align: left ;
+}
+
+
+
+/* Figures, graphics and code fragments. */
+
+img {
+ border: 0px ;
+}
+
+.graphic {
+ text-align: center ;
+ margin-top: 15px ;
+ margin-bottom: 15px ;
+}
+
+.figure {
+ text-align: center ;
+ margin-top: 15px ;
+ margin-bottom: 15px ;    
+}
+
+textarea.codearea {
+ width: 530px ;
+ background-color: #eeeeee;
+}
+
+.code-fragment {
+ overflow: auto ;
+ width: 530px ;
+ height: 400px ;
+ background-color: #eeeeee;
+ border: 1px solid black ;
+ padding: 10px ;
+}
+
+.code-snippet {
+ font-family: Monaco, monospace; 
+ font-size: 12px; 
+}
+
+
+iframe.code-frame {
+ overflow: auto ;
+ width: 530px; 
+ height: 400px ;
+}
+
+
+iframe.js-demo {
+  width: 550px ;
+  height: 2.5em ;
+}
+
+
+
