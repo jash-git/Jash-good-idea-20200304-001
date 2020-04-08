@@ -1,0 +1,9 @@
+程式設計師KUSO髮型
+
+資料來源: https://mp.weixin.qq.com/s?__biz=MjM5NDAwOTUzNA==&mid=2247493580&idx=1&sn=c857d5d407243e203036ff51c72c6785&chksm=a68cff1d91fb760b452163fed4fbbb4b371d7c4d8215d858efecd19857970388864994eb8a27&scene=126&sessionid=1586310728&key=2c4881e20dc9fe0f423b74c2db7fb6bfe402e2d9b092d5f845e1f1c29322381435d4aa76c0f6ac9f32aa50041e53497f6fa2debd9c426db6b4125fe2bbaddfead42c2c80e7ea68c660c872fb02d9bedd&ascene=1&uin=MjIwODk2NDgxNw%3D%3D&devicetype=Windows+10&version=62080079&lang=zh_TW&exportkey=AgKJyv0WcjDEsaaJNyqYFPk%3D&pass_ticket=ufjol4IK3kcL8pdoElyJekKoAq2w6n2aEewXKrgIKF5hspLNmnXgqj3Xh%2FesJNws
+
+沒頭髮 看起來真的比較老
+戴上假髮 看起來真的比較年輕[人要衣裝，佛要金裝]
+
+
+
